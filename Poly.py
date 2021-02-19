@@ -2,7 +2,6 @@ import discord
 from discord.ext import commands
 
 client = commands.Bot(command_prefix = ">")
-token = "ODEyMDEwMzkyMTA3ODc2Mzcy.YC6hmw.ZNPAKYB1APsCMytULW3A6tUvbVA"
 
 words = {
     "Fuck": "Fridge",
